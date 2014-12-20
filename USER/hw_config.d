@@ -1,0 +1,9 @@
+hw_config.o: ..\USB\CONFIG\hw_config.c
+hw_config.o: ..\SYSTEM\sys\sys.h
+hw_config.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+hw_config.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+hw_config.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+hw_config.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+hw_config.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+hw_config.o: C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+hw_config.o: ..\USB\CONFIG\stm32f10x_conf.h
